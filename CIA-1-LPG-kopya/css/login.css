@@ -637,3 +637,12 @@ i.mainMenuIconArrow{
 
 }
 
+.productTextAreaInput{
+    width: 100%;
+    height: 75px;
+    border-radius: 5px;
+    border-color: #5094dc;
+}
+
+
+
